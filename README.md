@@ -2,7 +2,7 @@
 
 A portable, cross‑platform developer cockpit for project analysis, purification, and deterministic reconstruction. Provided for portfolio review only. **Redistribution or reuse is not permitted.**
 
-https://img.shields.io/badge/platform-Debian%20%7C%20Windows-blue https://img.shields.io/badge/languages-Node.js%20%7C%20Python-green https://img.shields.io/badge/status-Stable-brightgreen https://img.shields.io/badge/license-Proprietary-red
+![Platforms](https://img.shields.io/badge/platform-Debian%20%7C%20Windows-blue) ![Languages](https://img.shields.io/badge/languages-Node.js%20%7C%20Python-green) ![Status](https://img.shields.io/badge/status-Stable-brightgreen) ![License](https://img.shields.io/badge/license-Proprietary-red)
 
 ### Overview
 

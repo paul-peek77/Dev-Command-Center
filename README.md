@@ -166,4 +166,4 @@ The Dev Command Center:
 
 ### License
 
-Provided for portfolio review only. Redistribution or reuse is not permitted.
+**Provided for portfolio review only. Redistribution or reuse is not permitted.**
